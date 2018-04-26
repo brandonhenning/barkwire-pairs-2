@@ -24,6 +24,9 @@ app.get("/", (request, response) => {
 app.get("/dogs", (request, response) => {
     response.render("dogs");
 });
+app.get("/dogs/new", (request, response) => {
+    response.render("new");
+});
 app.get("/dogs/:id", (request, response) => {
     response.render("dog");
 });

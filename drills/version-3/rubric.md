@@ -1,8 +1,8 @@
-* [ ] All tests pass
-* [ ] Has a route to display add dogs page
-* [ ] Has a template to display add dogs page
-* [ ] Adds dog through the API
-* [ ] Styles display correctly
-* [ ] Names are included
-* [ ] Consistent indentation
-* [ ] Consistent semicolon usage
+* [x] All tests pass
+* [x] Has a route to display add dogs page
+* [x] Has a template to display add dogs page
+* [x] Adds dog through the API
+* [x] Styles display correctly
+* [x] Names are included
+* [x] Consistent indentation
+* [x] Consistent semicolon usage
